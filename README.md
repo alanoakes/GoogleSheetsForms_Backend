@@ -14,3 +14,13 @@ Here are the site references for implementing this.
 2. [Google Form Custom UI: Part 2](https://youtu.be/Q8t9CqdIY2Q?si=sj6Rht1XgBTCU7LL)
 3. [Google Form Custom UI: Part 3]()
 4. [Google Form Custom UI: Part 4]()
+
+### Initiating The Form
+
+- [The Google Form Editor](https://docs.google.com/forms/d/1D0ER5bO3cyxk647yT5FiFlGaPW8IkkZdpQO26UrKmBA/edit)
+
+https://docs.google.com/forms/d/e/1FAIpQLSeaHBvKwQWjqRs0PbSjwMr7e2q8sl3NHnPzZkCvUG1HBENvrQ/formResponse
+
+entry.217094266=999-Color
+entry.822568197=999-Animal
+entry.1036133879=999-Food

@@ -12,7 +12,7 @@ Here are the site references for implementing this.
 
 1. [Google Form Custom UI: Part 1](https://www.youtube.com/watch?v=_gsZbIIMS7w)
 2. [Google Form Custom UI: Part 2](https://youtu.be/Q8t9CqdIY2Q?si=sj6Rht1XgBTCU7LL)
-3. [Google Form Custom UI: Part 3]()
+3. [Google Form Custom UI: Part 3](https://www.youtube.com/watch?v=990Z4e6kmm8)
 4. [Google Form Custom UI: Part 4]()
 
 ### Pt.1 - Initiating The Form
@@ -23,3 +23,7 @@ Here are the site references for implementing this.
 ### Pt. 2 - Submission Confirmation Page
 
 This video shows you how to create a custom submission confirmation page for your customized Google Form.
+
+### Pt. 3 - Checkboxes and Multiple Choice
+
+This video shows you how to utilize checkboxes & multiple-choice questions in your customized Google Form.
